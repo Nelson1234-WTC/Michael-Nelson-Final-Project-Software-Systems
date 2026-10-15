@@ -1,0 +1,38 @@
+/* Style the entire webpage */
+body {
+    background-color: red;
+    font-family: tahoma, sans-serif;
+    color: black;
+    margin: 20px;
+}
+
+/* Style the main heading */
+h1 {
+    color: black;
+    font-size: 36px;
+}
+
+/* Style the secondary heading */
+h2 {
+    color: white;
+    font-size: 24px;
+}
+
+/* Style the paragraph */
+p {
+    font-size: 18px;
+}
+
+/* Style the Cavaliers image */
+img {
+    width: 300px;
+    height: 300px;
+}
+
+/* Style the button */
+button {
+    background-color: navy ;
+    color: white;
+    padding: 10px;
+    border: 2px solid gold;
+}
